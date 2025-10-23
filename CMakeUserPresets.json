@@ -1,0 +1,14 @@
+﻿{
+    "version": 3,
+    "configurePresets": [
+        {
+            "name": "x64-debug-user",
+            "displayName": "x64 Debug (User)",
+            "inherits": "x64-debug",
+            "cacheVariables": {
+                "CMAKE_PREFIX_PATH": "C:\\Users\\lenovo\\Downloads\\SDL3-devel-3.2.24-VC\\SDL3-3.2.24\\cmake",
+                "SDL3_RUNTIME_DIR": "C:\\Users\\lenovo\\Downloads\\SDL3-devel-3.2.24-VC\\SDL3-3.2.24\\lib\\x64"
+            }
+        }
+    ]
+}

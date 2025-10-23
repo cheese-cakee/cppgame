@@ -1,0 +1,15 @@
+﻿{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "sdl3-demo.exe (sdl3-demo\\sdl3-demo.exe)",
+      "name": "sdl3-demo.exe (sdl3-demo\\sdl3-demo.exe)",
+      "env": {
+        "PATH": "C:\\Users\\lenovo\\Downloads\\SDL3-devel-3.2.24-VC.zip\\SDL3-3.2.24\\lib\\x64;%PATH%"
+      }
+    }
+  ]
+}
