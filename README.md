@@ -1,7 +1,7 @@
 # cppgame
 
 > [!WARNING]
-> Work in progress. This project is intentionally early-stage and not production-ready.
+> Work in progress. This project is early stage and not production ready.
 
 A low-level C++ game sandbox based on an SDL3 + CMake setup.
 
